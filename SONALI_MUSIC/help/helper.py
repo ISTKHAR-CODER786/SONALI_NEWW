@@ -1,4 +1,4 @@
-# MADE BY - ALPHA BABY
+# MADE BY - ISTKHAR BABY
 
 class Helper(object):
     HELP_M = '''```
@@ -27,7 +27,7 @@ class Helper(object):
 
 ❍ /ask [ǫυєʀʏ] : sєᴧʀᴄʜ ᴛʜє ᴧηʏ ᴛʏᴘє ǫυєsᴛɪση
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -42,7 +42,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ʜɪɴᴅɪ sᴏɴɢs```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
     HELP_03 = '''```
@@ -50,14 +50,14 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @MahiMusic_Robot @ll_ISTKHAR_BABY_lll I love You 😘
+ єxᴧϻᴘʟє : IstkharMusicBot @ll_ISTKHAR_BABY_lll I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
 
 **❍ /tts : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll) **
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll) **
 '''
 
 
@@ -70,7 +70,7 @@ class Helper(object):
 ❍ /groupinfo : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ ɪηғσ `ᴇx :- /groupinfo ɢʀᴏᴜᴘ ᴜsᴇʀɴᴀᴍᴇ`
 ❍ /status : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ sᴛᴧᴛᴜs
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -81,9 +81,9 @@ class Helper(object):
 
 ❍ /font [ᴛєxᴛ]**
 ```
-❖ єxᴧϻᴘʟє : /font Alpha Baby```
+❖ єxᴧϻᴘʟє : /font Istkhar Baby```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll) **
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll) **
 '''
 
     HELP_06 = '''```
@@ -91,7 +91,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -106,7 +106,7 @@ class Helper(object):
 ❍ /shayari ➠ ʀᴧηᴅσϻ sʜᴧʏᴧʀɪ ᴛᴧɢ 
 ❍ /shstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -115,9 +115,9 @@ class Helper(object):
 **❍ /couples ➠ ᴜsє ᴛʜɪs ᴄσϻϻᴧηᴅ ᴧηᴅ sєє ɢʀσᴜᴘs ᴄσᴜᴘʟєs.
 ❍ /wish ➠ ᴜsє ᴛʜɪs ᴄσϻϻᴧηᴅ ᴧηᴅ sєє ɢʀσᴜᴘs ᴄσᴜᴘʟєs.
 ❍ /cute ➠ ᴄʜєᴄᴋ ʏσυʀ ᴄυᴛєηєss.
-❍ /love ➠ ᴧᴅᴅ ᴛᴡᴏ ηᴧϻєs ᴧηᴅ sєє ʟσᴠᴇ ᴘσssɪʙɪʟɪᴛʏ !! `ʟɪᴋᴇ ʀᴧᴊᴧ + sσηᴧ.`
+❍ /love ➠ ᴧᴅᴅ ᴛᴡᴏ ηᴧϻєs ᴧηᴅ sєє ʟσᴠᴇ ᴘσssɪʙɪʟɪᴛʏ !! `ʟɪᴋᴇ ɪsᴛᴋʜᴀʀ + ɴᴏᴏʀ.`
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -131,7 +131,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -139,11 +139,11 @@ class Helper(object):
 ❖ sᴛɪᴄᴋєʀs ᴄσϻϻᴧηᴅꜱ ❖```
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
-❍ /mmf ➠ ʀєᴘʟʏ ᴧηʏ ᴘɪᴄ & ɢɪᴠє ᴛєxᴛ `єx :- /mmf alpha`
+❍ /mmf ➠ ʀєᴘʟʏ ᴧηʏ ᴘɪᴄ & ɢɪᴠє ᴛєxᴛ `єx :- /mmf istkhar`
 ❍ /kang ➠ ʀєᴘʟʏ ᴧηʏ sᴛɪᴄᴋєʀ & ᴄʀєᴀᴛє ʏσᴜʀ sᴛɪᴄᴋєʀ ᴘᴧᴄᴋ
 ❍ /st ➠ ғɪηᴅ ᴏʀɪɢɪηᴧʟ sᴛɪᴄᴋєʀ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -161,7 +161,7 @@ class Helper(object):
 ❍ /truth [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ]
 ❍ /dare : [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -184,7 +184,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -229,7 +229,7 @@ class Helper(object):
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
     HELP_15 = '''```
@@ -238,7 +238,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -255,7 +255,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -285,7 +285,7 @@ class Helper(object):
 ❍ /unbanall ➠ ᴜηʙᴧη ᴧʟʟ ʙᴧη ϻєϻʙєʀs
 ❍ /unpinall ➠ ᴜηᴘɪη ᴧʟʟ ᴘɪη ᴍєssᴧɢᴇ**
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -295,7 +295,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -307,7 +307,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -318,7 +318,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -333,7 +333,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -344,21 +344,21 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
     HELP_23 = '''```
 ❖ sᴧηɢ ϻᴧᴛᴧ ᴄσϻϻᴧηᴅ ❖```
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
     HELP_24 = '''```
 ❖ ᴛʀᴧηsʟᴧᴛєs ❖```
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -369,7 +369,7 @@ class Helper(object):
 
 `єxᴧϻᴘʟє : /git TEAM-ISTKHAR`
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
 
 
@@ -380,7 +380,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)**
 '''
     HELP_PROMOTION = '''
 **─────────────────────────
@@ -397,7 +397,7 @@ class Helper(object):
 ─────────────────────────
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+ ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє...
 ─────────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)
+❍ ᴄσηᴛᴧᴄᴛ - [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)
 ─────────────────────────**
 '''
     HELP_ABOUT = '''
@@ -406,15 +406,15 @@ class Helper(object):
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
-╭⎋ [ᴍᴀʜɪ ꭙ ϻυsɪᴄ](https://t.me/@MahiMusic_Robot) : ᴧʟɪᴠє 
+╭⎋ [ᴀᴠɪsʜᴀ ꭙ ϻυsɪᴄ](https://t.me/AvishaXRobot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
        
-╭⎋ [ᴛʜᴜɴᴅᴇʀ ꭙ ϻυsɪᴄ](https://t.me/PihuMusicRobot) : ᴧʟɪᴠє 
+╭⎋ [ᴄʟᴀssʏ ꭙ ϻυsɪᴄ](https://t.me/Classy_Musicbot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [𝐒ᴘᴏᴛɪғʏ ꭙ ϻυsɪᴄ](https://t.me/SpootifyMusicbot) : ᴧʟɪᴠє 
+╭⎋ [ɪsᴛᴋʜᴀʀ ꭙ ϻυsɪᴄ](https://t.me/IstkharMusicBot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ─────────────────────────
@@ -422,7 +422,7 @@ class Helper(object):
 ─────────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 10 ᴊᴀɴ 2025 
 ─────────────────────────
-❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)
+❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ISTKHAR_BABY_lll)
 ─────────────────────────**
 '''
     HELP_ALLBOT = '''
